@@ -1,0 +1,46 @@
+.navbar-brand
+{
+    font-size: 26px !important;
+}
+.two .done
+{
+    width: 180px;
+    height: 180px;
+}
+.two ul a
+{
+    color: blue;
+    font-weight: 900;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.two p
+{
+    margin-left: 15px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.two .qwe
+{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    border: solid 2px black;
+    margin-left: 38% !important;
+}
+.two .don
+{
+    width: 180px;
+    height: 50px;
+    background-color: lightgrey;
+}
+.two .don p
+{
+    font-size: 21px;
+}
+
+.two .asdf
+{
+    margin-top: 190px;
+}
